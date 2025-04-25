@@ -26,14 +26,12 @@ Weather icon and description
 
 ⚠️ Error Handling: user-friendly messages for failed searches
 
-🔄 Loader Animation shown while fetching data
 
 🛠️ Built With
 HTML5
 
 CSS3
-
-Vanilla JavaScript
+JavaScript
 
 OpenWeatherMap API
 
